@@ -20,14 +20,15 @@ Print in the same line two space separated integers - the day on which the share
 ## Examples
 ### Example 1
 Input
- 
-`6 2`  
+ ```
+6 2
 
-`3 1 2 1 4 5`
+3 1 2 1 4 5
  
-`3`
+3
  
-`2`
+2
+```
  
 Output
 `4 5,3 5`
@@ -37,13 +38,14 @@ i.e. To achieve a profit of 3, John can either buy on day 2 or day 4 and sell on
 ### Example 2
 Input
  
-`6 2`
+```6 2
   
-`3 6 9 8 2 4 `
+3 6 9 8 2 4
  
-`5`
+5
  
-`2`
+2
+```
  
 Output
 `1 4,2 4`
