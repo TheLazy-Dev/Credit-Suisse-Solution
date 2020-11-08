@@ -1,4 +1,5 @@
-Unauthorized Transactions
+# Unauthorized Transactions
+
 It is important that banks recognize unauthorized transactions in order to protect their clients. Leon has recently started working at a large credit card company where his role is to investigate fraudulent credit card transactions. He is attempting to sort transactions, depending on their fraud probability, into separate boxes.
 
 Let t = 2 mean that Leon has 2 types of transactions and 2 different boxes, both labelled from 0 to t-1. The current organization of the transactions in each box can be shown using a matrix M (size t x t). Consider M = [[8, 3], [3, 9]]:
